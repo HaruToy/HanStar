@@ -12,8 +12,8 @@ options=webdriver.ChromeOptions()
 #options.add_argument("headless")
 driver = webdriver.Chrome(chrome_options= options)
 
-id='twitty3420'
-pw='ghwlsvh4806'
+id='아이디 '
+pw='ㅇㅇㅇㅇㅇㅇㅇ'
 GOAL='20'
 
 driver.get('https://www.acmicpc.net/login?next=%2Fsso%3Fsso%3Dbm9uY2U9MmM3ZDIzZTFkNjRlMGQ0ZDU5Mzk2OGJkMjUyMzA3ZTU%253D%26sig%3Dfca1cf3149566c27f90312d9a6b395f49ba23aa5aedad0e3f79275e228f7253f%26redirect%3Dhttps%253A%252F%252Fsolved.ac%252Fapi%252Fv3%252Fauth%252Fsso%253Fprev%253D%25252Fevent%25252F220401')
